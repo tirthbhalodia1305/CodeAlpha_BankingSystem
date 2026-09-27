@@ -1,0 +1,51 @@
+========== BANKING SYSTEM ==========
+1. Create Customer
+2. Create Account
+3. Deposit Money
+4. Withdraw Money
+5. Transfer Funds
+6. View Account Information
+7. View Recent Transactions
+8. View All Customers
+9. Exit
+====================================
+Enter your choice: 1
+
+Enter customer name: Rahul Sharma
+Enter phone number: 9876543210
+Enter email: rahul@example.com
+
+Customer created successfully!
+Customer ID: 1001
+
+Enter your choice: 2
+
+Enter Customer ID: 1001
+Enter account type (Savings/Current): Savings
+
+Account created successfully!
+Account Number: 50001
+
+Enter your choice: 3
+
+Enter Account Number: 50001
+Enter deposit amount: Rs. 10000
+Deposit successful.
+New Balance: Rs. 10000.00
+
+Enter your choice: 4
+
+Enter Account Number: 50001
+Enter withdrawal amount: Rs. 1500
+Withdrawal successful.
+New Balance: Rs. 8500.00
+
+Enter your choice: 7
+
+Enter Account Number: 50001
+How many recent transactions? 5
+
+================ RECENT TRANSACTIONS ================
+ID      TYPE           AMOUNT      DATE/TIME             DESCRIPTION
+1       DEPOSIT        10000.00    2026-09-27 13:00:00   Cash deposit
+2       WITHDRAW       1500.00     2026-09-27 13:02:00   Cash withdrawal

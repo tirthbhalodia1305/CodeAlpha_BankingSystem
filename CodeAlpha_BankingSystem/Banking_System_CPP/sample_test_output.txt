@@ -1,0 +1,119 @@
+
+========== BANKING SYSTEM ==========
+1. Create Customer
+2. Create Account
+3. Deposit Money
+4. Withdraw Money
+5. Transfer Funds
+6. View Account Information
+7. View Recent Transactions
+8. View All Customers
+9. Exit
+====================================
+Enter your choice: 
+Enter customer name: Enter phone number: Enter email: 
+Customer created successfully!
+Customer ID: 1001
+
+========== BANKING SYSTEM ==========
+1. Create Customer
+2. Create Account
+3. Deposit Money
+4. Withdraw Money
+5. Transfer Funds
+6. View Account Information
+7. View Recent Transactions
+8. View All Customers
+9. Exit
+====================================
+Enter your choice: 
+Enter Customer ID: Enter account type (Savings/Current): 
+Account created successfully!
+Account Number: 50001
+
+========== BANKING SYSTEM ==========
+1. Create Customer
+2. Create Account
+3. Deposit Money
+4. Withdraw Money
+5. Transfer Funds
+6. View Account Information
+7. View Recent Transactions
+8. View All Customers
+9. Exit
+====================================
+Enter your choice: 
+Enter Account Number: Enter deposit amount: Rs. Deposit successful.
+New Balance: Rs. 1000.00
+
+========== BANKING SYSTEM ==========
+1. Create Customer
+2. Create Account
+3. Deposit Money
+4. Withdraw Money
+5. Transfer Funds
+6. View Account Information
+7. View Recent Transactions
+8. View All Customers
+9. Exit
+====================================
+Enter your choice: 
+Enter Account Number: Enter withdrawal amount: Rs. Withdrawal successful.
+New Balance: Rs. 800.00
+
+========== BANKING SYSTEM ==========
+1. Create Customer
+2. Create Account
+3. Deposit Money
+4. Withdraw Money
+5. Transfer Funds
+6. View Account Information
+7. View Recent Transactions
+8. View All Customers
+9. Exit
+====================================
+Enter your choice: 
+Enter Account Number: 
+========== ACCOUNT INFORMATION ==========
+Account Number : 50001
+Customer ID    : 1001
+Account Type   : Savings
+Balance        : Rs. 800.00
+=========================================
+
+Customer ID : 1001
+Name        : Test User
+Phone       : 9999999999
+Email       : test@example.com
+Accounts    : 50001 
+
+========== BANKING SYSTEM ==========
+1. Create Customer
+2. Create Account
+3. Deposit Money
+4. Withdraw Money
+5. Transfer Funds
+6. View Account Information
+7. View Recent Transactions
+8. View All Customers
+9. Exit
+====================================
+Enter your choice: 
+Enter Account Number: How many recent transactions? 
+================ RECENT TRANSACTIONS ================
+ID      TYPE           AMOUNT      DATE/TIME             DESCRIPTION
+1       DEPOSIT        1000.00     2026-09-27 07:33:20   Cash deposit
+2       WITHDRAW       200.00      2026-09-27 07:33:20   Cash withdrawal
+
+========== BANKING SYSTEM ==========
+1. Create Customer
+2. Create Account
+3. Deposit Money
+4. Withdraw Money
+5. Transfer Funds
+6. View Account Information
+7. View Recent Transactions
+8. View All Customers
+9. Exit
+====================================
+Enter your choice: Thank you for using the Banking System!
